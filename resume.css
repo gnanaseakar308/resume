@@ -1,0 +1,78 @@
+
+body{
+    background-color: blue;
+    font-family: 'Times New Roman', Times, serif;
+}
+#heading{
+    font-size: 39px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    border-bottom:solid skyblue;
+    padding: 3%;
+}
+#heading .head{
+    font-size: 25px;
+}
+#container{
+    padding-top: 5%;
+    padding-left: 4%;
+    background-color: white;
+    margin: 0 20% 0 15%;
+    padding-bottom: 3%;
+    
+}
+#sub heading{
+    background-color: aquamarine;
+}
+.personal{
+    background-color:black;
+    margin-left:16% ;
+    content: '';
+    display: inline-block;
+    width: 2px;
+    height: 300px;
+}
+
+#pt{
+    border-bottom: solid skyblue;
+}
+#name{
+    background-color: skyblue;
+}
+#squares{
+    width:20%;
+    margin-left: 80%;
+    
+    background-color: skyblue;
+}
+#contact {
+    display: flex;
+    border-bottom: solid skyblue;
+}
+
+#contact ul{
+    display: flex;
+    
+}
+.margin{
+   margin-left: 13%; 
+}
+.headlines{
+    background-color: skyblue;
+}
+
+
+#re{
+    margin-left: 15%;
+}
+#ul1 li{
+    margin-left: 10%;
+}
+.ul2{
+    margin-left: 13%;
+
+}
+.display{
+    display: flex;
+    justify-content: space-between;
+    
+}
